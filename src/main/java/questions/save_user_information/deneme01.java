@@ -1,7 +1,7 @@
 package questions.save_user_information;
 
 public class deneme01 {
-    static Integer counter=0;
+    static int counter=0;
     static Integer a =1;
     public static void main(String[] args) {
         method01(counter);

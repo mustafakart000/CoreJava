@@ -1,6 +1,7 @@
 package javainstruction.day24StatickeywordEncapsulation;
 
 public class Car {
+
     public static String make = "Honda";
     public String model = "Accord";
     public int price = 20000;
@@ -10,4 +11,5 @@ public class Car {
         counter++;
         price++;
     }
+
 }

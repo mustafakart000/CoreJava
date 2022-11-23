@@ -1,7 +1,7 @@
 package javainstruction.day24StatickeywordEncapsulation;
 
 public class CarRunner {
-    /*
+       /*
             "static keyword" nedir?
             static keyword class'a baglanmis class elemanlaridir
             static class elemanlari butun Object'lerin ortak elamanidir.
@@ -22,6 +22,7 @@ public class CarRunner {
         System.out.println(Car.counter);
         System.out.println(car1.price);
 
+
         System.out.println(Car.counter);
         System.out.println(car2.price);
 
@@ -31,4 +32,5 @@ public class CarRunner {
         System.out.println(Car.counter);
         System.out.println(car4.price);
     }
+
 }

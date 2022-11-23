@@ -1,6 +1,7 @@
 package javainstruction.day24StatickeywordEncapsulation;
 
 public class StudentRunner {
+
     public static void main(String[] args) {
 
         Student std1 = new Student();
@@ -18,7 +19,10 @@ public class StudentRunner {
         std1.setRetired(true);
         System.out.println(std1.isRetired());//true
 
+
         Student std2 = new Student();
         System.out.println(std2.getSdtId());// TH202201
+
     }
+
 }
