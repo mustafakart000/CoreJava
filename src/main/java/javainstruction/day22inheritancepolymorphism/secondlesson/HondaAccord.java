@@ -1,4 +1,4 @@
-package JavaSunctruction.day22inheritancepolymorphism.secondlesson;
+package javainstruction.day22inheritancepolymorphism.secondlesson;
 
 public class HondaAccord extends Honda{
 

@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="36485c10-a44a-4143-9b77-230875107dd3" name="Changes" comment="Core java Bootcamp">
-      <change afterPath="$PROJECT_DIR$/src/main/java/questions/save_user_information/deneme01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/questions/save_user_information/deneme02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/questions/save_user_information/identityMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/questions/save_user_information/usersInformation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javainstruction/day24StatickeywordEncapsulation/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javainstruction/day24StatickeywordEncapsulation/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javainstruction/day31maps/HashMap01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javainstruction/day31maps/HashMap01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javainstruction/day31maps/HashMap01Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javainstruction/day31maps/HashMap01Practice.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +52,7 @@
       <recent name="questions.school_system.geometryquestion01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CarRunner">
+  <component name="RunManager" selected="Application.deneme01">
     <configuration name="CarRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javainstruction.day24StatickeywordEncapsulation.CarRunner" />
       <module name="JavaInstruction" />
@@ -127,8 +120,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CarRunner" />
         <item itemvalue="Application.deneme01" />
+        <item itemvalue="Application.CarRunner" />
         <item itemvalue="Application.identityMap" />
         <item itemvalue="Application.usersInformation" />
         <item itemvalue="Application.HashMap01" />
@@ -165,7 +158,28 @@
       <option name="project" value="LOCAL" />
       <updated>1668938281805</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Core java Bootcamp">
+      <created>1669178266447</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1669178266447</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Core java Bootcamp">
+      <created>1669178291135</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1669178291135</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Core java Bootcamp">
+      <created>1669179163243</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1669179163243</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

@@ -5,14 +5,14 @@ public class deneme01 {
     static Integer a =1;
     public static void main(String[] args) {
         method01(counter);
-        method01(counter);
-        method01(counter);
-        method02(counter);
-        method02(counter);
         method02(counter);
         method02(a);
+        deneme01 den01=new deneme01();
+        den01.a = a;
 
     }
+
+
     static Integer method01(Integer a){
 
         System.out.println("method01() ::: "+method02(a));
