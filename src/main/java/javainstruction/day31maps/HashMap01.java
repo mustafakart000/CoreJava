@@ -1,4 +1,4 @@
-package JavaSunctruction.day31maps;
+package javainstruction.day31maps;
 
 import java.util.Collection;
 import java.util.HashMap;
