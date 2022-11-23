@@ -1,4 +1,4 @@
-package JavaSunctruction.day23inheritancepolymorphism.polymorhism;
+package javainstruction.day23inheritancepolymorphism.polymorhism;
 
 public class Conctructor01 {
 
