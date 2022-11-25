@@ -1,4 +1,4 @@
-package JavaSunctruction.day26exceptions;
+package javainstruction.day26exceptions;
 
 public class Exceptions01 {
     public static void main(String[] args) {

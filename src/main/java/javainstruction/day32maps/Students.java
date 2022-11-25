@@ -1,4 +1,4 @@
-package JavaSunctruction.day32maps;
+package javainstruction.day32maps;
 
 public class Students {
     public  String name;

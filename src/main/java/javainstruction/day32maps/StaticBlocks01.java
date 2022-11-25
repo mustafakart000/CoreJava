@@ -1,4 +1,4 @@
-package JavaSunctruction.day32maps;
+package javainstruction.day32maps;
 
 public class StaticBlocks01 {
     public static double pi ;

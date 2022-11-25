@@ -1,4 +1,4 @@
-package JavaSunctruction.day19datetime;
+package javainstruction.day19datetime;
 
 import java.time.LocalDate;
 import java.time.LocalDateTime;
