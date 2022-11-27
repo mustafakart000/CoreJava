@@ -114,9 +114,9 @@ public class SchoolLibrary {
                 "\"Bilim Kurgu: 1   Korku-gerilim: 2   polisiye: 3\" birini seçiniz ");
         String typeOfBook = bookType();
         new SchoolLibrary();
-        if (typeOfBook == bookList.values().toString().split("-")[4]) {
+        if (typeOfBook == bookList.values().toString().split("-")[3]) {
             for (String w:bookList.values()){
-                System.out.println(w.split("-")[4].contains(typeOfBook));
+                System.out.println(w.split("-")[3].contains(typeOfBook));
             }
         }else {
             System.out.println("Belirttiğiniz. katogeri mevcut değildir.");
