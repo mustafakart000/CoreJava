@@ -5,23 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="36485c10-a44a-4143-9b77-230875107dd3" name="Changes" comment="Core java Bootcamp">
-      <change afterPath="$PROJECT_DIR$/src/main/java/questions/book_project/SchoolLibrary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/questions/book_project/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javainstruction/day19datetime/DataTimesHomeWork01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javainstruction/day19datetime/DataTimesHomeWork01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javainstruction/day24StatickeywordEncapsulation/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javainstruction/day24StatickeywordEncapsulation/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javainstruction/day26exceptions/Exceptions01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javainstruction/day26exceptions/Exceptions01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javainstruction/day26exceptions/Exceptions02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javainstruction/day26exceptions/Exceptions02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javainstruction/day32maps/Iterators01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javainstruction/day32maps/Iterators01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javainstruction/day32maps/Map01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javainstruction/day32maps/Map01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javainstruction/day32maps/Maps02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javainstruction/day32maps/Maps02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javainstruction/day32maps/StaticBlocks01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javainstruction/day32maps/StaticBlocks01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javainstruction/day32maps/Students.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javainstruction/day32maps/Students.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javainstruction/day32maps/TreeMap01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javainstruction/day32maps/TreeMap01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javainstruction/day32maps/hashTable01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javainstruction/day32maps/hashTable01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/questions/save_user_information/deneme01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/questions/save_user_information/deneme01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/questions/save_user_information/deneme02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/questions/save_user_information/deneme02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/questions/save_user_information/usersInformation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/questions/save_user_information/usersInformation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/questions/book_project/SchoolLibrary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/questions/book_project/SchoolLibrary.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +43,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "settings.editor.selected.configurable": "preferences.sourceCode.Java"
+    "settings.editor.selected.configurable": "preferences.sourceCode.HTML"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -211,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669180932736</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Core java Bootcamp">
+      <created>1669403397571</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1669403397571</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

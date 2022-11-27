@@ -28,12 +28,10 @@ public class SchoolLibrary {
         switch (select) {
             case 1:
                 addBook();
-
-
             case 2:
                 removeBook();
-                case 3 :
-                    findBookWithBookType();
+            case 3 :
+                findBookWithBookType();
         }
 
 
@@ -49,6 +47,7 @@ public class SchoolLibrary {
         bookList.put("Hizmetçi", "1005 Hizmetçi Nita Prose 59 Korku-gerilim");
         bookList.put("Enstitü", "1006 Enstitü Stephen King 81 Korku-gerilim");
     }
+
     static HashMap<String,String> addBook(){
         Scanner scan=new Scanner(System.in);
         System.out.println("Kitap Adı: ");
