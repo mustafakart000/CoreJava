@@ -7,7 +7,7 @@ public class SchoolLibrary {
     static Integer counter=1000;
     SchoolLibrary(){
         SchoolLibrary.counter++;
-        System.out.println("constructor body: "+bookList);
+//      System.out.println("constructor body: "+bookList);
     }
     static HashMap<String, String> bookList= new HashMap<>();
 
@@ -28,11 +28,17 @@ public class SchoolLibrary {
         switch (select) {
             case 1:
                 addBook();
+                showBookList();
+                break;
             case 2:
                 removeBook();
+                showBookList();
+                break;
             case 3 :
                 findBookWithBookType();
-        }
+                showBookList();
+                break;
+        }selectProcess();
 
 
     }
@@ -68,16 +74,18 @@ public class SchoolLibrary {
 
 //--removeBook Variable: getBook and bookList.remove(getBook)
     static void removeBook(){
+        showBookList();
         Scanner scan = new Scanner(System.in);
         System.out.println("Sileceğiniz Kitap ismini giriniz: ");
         String getBook=scan.next();
         try {
             bookList.remove(getBook);
             System.out.println(bookList);
-            }catch (ClassCastException e) {
-                System.out.println("Lütfen ismin var olup olmadığını kontrol ediniz."+e.getMessage());
-            }
-        showBookList();
+        }catch (ClassCastException e) {
+            showBookList();
+            System.out.println("Lütfen ismin var olup olmadığını kontrol ediniz."+e.getMessage());
+        }
+
         }
 
     static String bookType(){
@@ -106,13 +114,13 @@ public class SchoolLibrary {
                 "\"Bilim Kurgu: 1   Korku-gerilim: 2   polisiye: 3\" birini seçiniz ");
         String typeOfBook = bookType();
         new SchoolLibrary();
-        if (typeOfBook == bookList.values().toString().split("-")[3]) {
+        if (typeOfBook == bookList.values().toString().split("-")[4]) {
             for (String w:bookList.values()){
-                System.out.println(w.split("-")[3].contains(typeOfBook));
+                System.out.println(w.split("-")[4].contains(typeOfBook));
             }
         }else {
             System.out.println("Belirttiğiniz. katogeri mevcut değildir.");
-            findBookWithBookType();
+            selectProcess();//
         }
     }
     static void showBookList(){
